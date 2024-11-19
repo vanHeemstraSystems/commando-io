@@ -1,8 +1,8 @@
-儲存庫名稱
+我在指揮
 
-# 儲存庫名稱
+# Commando.io
 
-> 斯拉格萊恩
+> 一個基於 Web 的平台，用於透過 SSH 在伺服器上執行命令。
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
