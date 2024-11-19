@@ -1,8 +1,8 @@
-nombre-repositorio
+estoy al mando
 
-# Nombre del repositorio
+# Commando.io
 
-> línea de bala
+> Una plataforma basada en web para ejecutar comandos en servidores a través de SSH.
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
