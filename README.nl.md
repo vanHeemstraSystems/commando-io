@@ -1,8 +1,8 @@
-repositorynaam
+Ik heb het bevel
 
-# Naam van opslagplaats
+# Commando.io
 
-> Slaklijn
+> Een webgebaseerd platform voor het uitvoeren van opdrachten op servers via SSH.
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
@@ -10,7 +10,7 @@ repositorynaam
 
 **Samenvatting**
 
-Text
+Tekst
 
 ## 100 - Inleiding
 
