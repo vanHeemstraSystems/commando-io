@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+commando-io
+# Commando.io
 
-> Slugline
+> A web based platform for running commands on servers via SSH.
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
