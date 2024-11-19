@@ -1,8 +1,8 @@
-nom du référentiel
+je suis aux commandes
 
-# Nom du référentiel
+# Commando.io
 
-> Slugline
+> Une plate-forme Web pour exécuter des commandes sur des serveurs via SSH.
 
 -   [Glossaire](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
@@ -10,7 +10,7 @@ nom du référentiel
 
 **Résumé exécutif**
 
-Texte
+Text
 
 ## 100 - Présentation
 
