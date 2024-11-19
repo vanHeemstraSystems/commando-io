@@ -1,8 +1,8 @@
-存储库名称
+commando-io
 
-# 存储库名称
+# Commando.io
 
-> 斯拉格莱恩
+> 一个基于 Web 的平台，用于通过 SSH 在服务器上运行命令。
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
@@ -10,7 +10,7 @@
 
 **执行摘要**
 
-Text
+文本
 
 ## 100 - 简介
 
@@ -20,7 +20,7 @@ Text
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 构建我们的应用程序
 
 看[README.md](./300/README.md)
 
