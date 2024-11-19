@@ -1,8 +1,8 @@
-Repository-Name
+Ich habe das Kommando
 
-# Repository-Name
+# Commando.io
 
-> Slugline
+> Eine webbasierte Plattform zum Ausführen von Befehlen auf Servern über SSH.
 
 -   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
@@ -22,8 +22,8 @@ Sehen[README.md](./200/README.md)
 
 ## 300 – Erstellen unserer Anwendung
 
-See [README.md](./300/README.md)
+Sehen[README.md](./300/README.md)
 
-## 400 – Fazit
+## 400 - Conclusion
 
 Sehen[README.md](./400/README.md)
